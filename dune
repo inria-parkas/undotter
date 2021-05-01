@@ -1,0 +1,8 @@
+
+(executable
+  (name undotter)
+  (public_name undotter)
+  (libraries ocamlgraph dune-build-info)
+  (modules undotter)
+  (promote (until-clean)))
+
