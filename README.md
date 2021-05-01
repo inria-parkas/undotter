@@ -32,6 +32,13 @@ very large
 [Lustre](https://www-verimag.imag.fr/The-Lustre-Programming-Language-and) 
 programs.
 
+Use
+---
+
+```
+undotter graph.dot
+```
+
 Options
 -------
 
